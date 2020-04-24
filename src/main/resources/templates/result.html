@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Result of submission</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+</head>
+
+<body>
+<h1>User Information</h1>
+<form method="post" enctype="multipart/form-data" action="Rez.txt">
+<p th:text="'surname: ' + ${greeting.surname}"/>
+<p th:text="'name: ' + ${greeting.name}"/>
+<p th:text="'middlename: ' + ${greeting.middlename}"/>
+<p th:text="'age: ' + ${greeting.age}"/>
+<p th:text="'salary: ' + ${greeting.salary}"/>
+<p th:text="'email: ' + ${greeting.email}"/>
+<p th:text="'workplace: ' + ${greeting.workplace}"/>
+<a href="/greeting">Submit another message</a>
+</body>
+</html>

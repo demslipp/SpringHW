@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6eaa5c5-7fe7-4544-8530-f0eaa967ddc3" name="Default Changelist" comment="" />
+    <list default="true" id="d6eaa5c5-7fe7-4544-8530-f0eaa967ddc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/SpringBootStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/SpringBootStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/model/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/model/Greeting.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,6 +38,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aaEhNRWeVMCcZf4lZjCoRJ8YR7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -64,11 +72,11 @@
       <module name="MySpringBootApp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.netcracker.*" />
+          <option name="PATTERN" value="com.netcracker.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.netcracker.SpringBootStarter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.netcracker.Task1.SpringBootStarter" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,7 +104,7 @@
       <workItem from="1587144592729" duration="3768000" />
       <workItem from="1587388363371" duration="61000" />
       <workItem from="1587390116765" duration="6999000" />
-      <workItem from="1587752265045" duration="8980000" />
+      <workItem from="1587752265045" duration="9482000" />
     </task>
     <servers />
   </component>
@@ -133,46 +141,54 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587752368313" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1587761259822">
+    <state x="625" y="315" key="Github.ShareDialog" timestamp="1587761471074">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="625" y="315" key="Github.ShareDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761471074" />
+    <state x="453" y="115" key="Github.UntrackedFilesDialog" timestamp="1587761496410">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="453" y="115" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761496410" />
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1587761338192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259822" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1587761259822">
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1587761338192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587403586497" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259822" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1587761259822">
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1587761338191">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587403586497" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259822" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1587761259822">
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338191" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1587761338192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587403586497" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259822" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1587761259823">
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1587761338193">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587403586499" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259823" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1587761259823">
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338193" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1587761338192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259823" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1587761259822">
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1587761338192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259822" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1587761259823">
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1587761338192">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761259823" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
     <state width="1323" height="381" key="GridCell.Tab.2.bottom" timestamp="1587144499249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

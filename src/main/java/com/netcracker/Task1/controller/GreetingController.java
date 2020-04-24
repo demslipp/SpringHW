@@ -1,6 +1,6 @@
-package com.netcracker.controller;
+package com.netcracker.Task1.controller;
 
-import com.netcracker.model.Greeting;
+import com.netcracker.Task1.model.Greeting;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

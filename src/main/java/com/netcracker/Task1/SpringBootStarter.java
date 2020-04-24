@@ -1,4 +1,4 @@
-package com.netcracker;
+package com.netcracker.Task1;
 
 
 import org.springframework.boot.SpringApplication;

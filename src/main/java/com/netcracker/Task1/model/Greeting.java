@@ -1,4 +1,4 @@
-package com.netcracker.model;
+package com.netcracker.Task1.model;
 
 public class Greeting{
 

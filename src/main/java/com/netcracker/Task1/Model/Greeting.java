@@ -1,13 +1,20 @@
-package com.netcracker.Task1.model;
+package com.netcracker.Task1.Model;
+
 
 public class Greeting{
 
     private String surname;
+
     private String name;
+
     private String middlename;
+
     private int age;
+
     private int salary;
+
     private String email;
+
     private String workplace;
 
     @Override

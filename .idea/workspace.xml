@@ -2,14 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6eaa5c5-7fe7-4544-8530-f0eaa967ddc3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/SpringBootStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/SpringBootStarter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/GreetingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/model/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/model/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__logkit_logkit_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task2/Controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task2/Model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpringBootApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySpringBootApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/SpringBootStarter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/SpringBootStarter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/Controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/model/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/netcracker/Task1/Model/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Rez.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/Rez.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -17,9 +50,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -49,9 +82,11 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5609195" />
@@ -60,6 +95,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\MySpringBootApp\src\main\resources\templates" />
+      <recent name="C:\MySpringBootApp\src\main\java\com\netcracker" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\MySpringBootApp\src" />
@@ -67,7 +103,33 @@
       <recent name="C:\NCProjects\MySpringBootApp\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MySpringBootApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netcracker.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.netcracker.Task2.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MySpringBootApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.netcracker.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.netcracker.Task2.SecondStarter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootStarter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="MySpringBootApp" />
       <extension name="coverage">
@@ -83,7 +145,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Application" />
         <item itemvalue="Spring Boot.SpringBootStarter" />
+        <item itemvalue="Spring Boot.SecondStarter" />
       </list>
     </recent_temporary>
   </component>
@@ -104,12 +168,24 @@
       <workItem from="1587144592729" duration="3768000" />
       <workItem from="1587388363371" duration="61000" />
       <workItem from="1587390116765" duration="6999000" />
-      <workItem from="1587752265045" duration="9482000" />
+      <workItem from="1587752265045" duration="24121000" />
     </task>
+    <task id="LOCAL-00001" summary="file location changed">
+      <created>1587761878613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587761878613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="file location changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="file location changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="322" y="57" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1586968293186">
@@ -125,22 +201,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="315" y="56" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1586965472514" />
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587755196354">
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587764381654">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587755196354" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587764381654" />
     <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587758115846">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587758115846" />
+    <state x="265" y="86" key="CommitChangelistDialog2" timestamp="1587761877636">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="265" y="86" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761877636" />
     <state width="420" height="466" key="DebuggerActiveHint" timestamp="1587139367908">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="420" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587139367908" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587752368313">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587774344921">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587752368313" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587774344921" />
     <state x="625" y="315" key="Github.ShareDialog" timestamp="1587761471074">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -149,46 +229,46 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="453" y="115" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761496410" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1587761338192">
+    <state width="1493" height="293" key="GridCell.Tab.0.bottom" timestamp="1587777333493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1587761338192">
+    <state width="1493" height="293" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333493" />
+    <state width="1493" height="293" key="GridCell.Tab.0.center" timestamp="1587777333492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587403586497" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1587761338191">
+    <state width="1493" height="293" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333492" />
+    <state width="1493" height="293" key="GridCell.Tab.0.left" timestamp="1587777333492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587403586497" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338191" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1587761338192">
+    <state width="1493" height="293" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333492" />
+    <state width="1493" height="293" key="GridCell.Tab.0.right" timestamp="1587777333492">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587403586497" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1587761338193">
+    <state width="1493" height="293" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333492" />
+    <state width="1493" height="293" key="GridCell.Tab.1.bottom" timestamp="1587777333493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587403586499" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338193" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1587761338192">
+    <state width="1493" height="293" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333493" />
+    <state width="1493" height="293" key="GridCell.Tab.1.center" timestamp="1587777333493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1587761338192">
+    <state width="1493" height="293" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333493" />
+    <state width="1493" height="293" key="GridCell.Tab.1.left" timestamp="1587777333493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1587761338192">
+    <state width="1493" height="293" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333493" />
+    <state width="1493" height="293" key="GridCell.Tab.1.right" timestamp="1587777333493">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1306" height="329" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587403586498" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761338192" />
+    <state width="1493" height="293" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587777333493" />
     <state width="1323" height="381" key="GridCell.Tab.2.bottom" timestamp="1587144499249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -205,6 +285,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="381" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1587144499249" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1587772574838">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587772574838" />
     <state x="232" y="0" key="SettingsEditor" timestamp="1587400483494">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -213,21 +297,32 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="404" y="105" width="555" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1587139284365" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587761880771">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587761880771" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587394558796">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587394558796" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1586966196857">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="209" y="78" key="new project wizard" timestamp="1587771835296">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="78" key="new project wizard/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587771835296" />
+    <state x="381" y="186" width="756" height="776" key="run.anything.popup" timestamp="1587770635120">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586966196857" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587400990040">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="381" y="186" width="756" height="776" key="run.anything.popup/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587770635120" />
+    <state x="389" y="56" width="756" height="777" key="search.everywhere.popup" timestamp="1587772472492">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587400990040" />
-    <state x="432" y="56" key="spring file set editor" timestamp="1587144961588">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="389" y="56" width="756" height="777" key="search.everywhere.popup/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587772472492" />
+    <state x="486" y="64" key="spring file set editor" timestamp="1587763216302">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="432" y="56" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1587144961588" />
+    <state x="486" y="64" key="spring file set editor/0.0.1536.834/1920.0.1280.994@0.0.1536.834" timestamp="1587763216302" />
   </component>
 </project>
